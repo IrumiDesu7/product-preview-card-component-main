@@ -77,6 +77,10 @@ body {
   border: 0;
   border-radius: 10px;
 }
+.btn-buy:hover {
+  cursor: pointer;
+  background-color: var(--neutral-very-dark-blue);
+}
 /* Attribution */
 .attribution {
   font-size: 11px;

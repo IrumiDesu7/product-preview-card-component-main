@@ -94,13 +94,15 @@ body {
   .card {
     display: flex;
     margin-left: auto;
-    width: 800px;
-    height: 400px;
+    width: 666px;
     margin-right: auto;
   }
-
+  .content-ex-image {
+    padding: 30px;
+  }
   .product-image {
     max-width: 100%;
+    height: 500px;
   }
   .mobile-image {
     display: none;

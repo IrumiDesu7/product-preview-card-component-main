@@ -67,6 +67,9 @@ body {
 .product-price {
   font-family: 'Fraunces', serif;
 }
+.product-price-before {
+  text-decoration: line-through;
+}
 .btn-buy {
   background-color: var(--primary-dark-cyan);
   height: 50px;

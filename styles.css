@@ -51,6 +51,9 @@ body {
   font-family: 'Fraunces', serif;
   font-size: 2rem;
 }
+.desktop-image {
+  display: none;
+}
 .product-description {
   font-size: 0.88rem;
   line-height: 1.5rem;
@@ -81,4 +84,24 @@ body {
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+@media screen and (min-width: 768px) {
+  .card {
+    display: flex;
+    margin-left: auto;
+    width: 800px;
+    height: 400px;
+    margin-right: auto;
+  }
+
+  .product-image {
+    max-width: 100%;
+  }
+  .mobile-image {
+    display: none;
+  }
+  .desktop-image {
+    display: block;
+  }
 }

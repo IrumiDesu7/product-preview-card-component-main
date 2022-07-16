@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/IrumiDesu7/product-preview-card-component-main)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-dvPR3i8OrQ)
 - Live Site URL: [Github Pages](https://irumidesu7.github.io/product-preview-card-component-main/)
 
 ## My process
